@@ -1,5 +1,5 @@
 # Merin-Seferin
-# TANDEMLOOP Screening Test – MERIN SEFERIN M
+# Screening Test – MERIN SEFERIN M
 
 ## Coding Language Used
 **Python**
